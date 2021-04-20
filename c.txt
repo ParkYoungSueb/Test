@@ -1,7 +1,6 @@
 hello world!
 add
 add
-<<<<<<< HEAD
 add
 =======
 bbbbbbbbbbbbbbbbbbbbbbbbb
